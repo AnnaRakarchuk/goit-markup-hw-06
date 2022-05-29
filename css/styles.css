@@ -793,7 +793,9 @@ color: var(--main-txt-cl);
   text-transform: uppercase;
   color: var(--secondary-txt-white);
   }
-
+.footer-form{
+  display: flex;
+}
 .footer-right-side{
   margin-left: auto;
 }
@@ -819,6 +821,7 @@ color: var(--main-txt-cl);
 }
 
 .footer-form-btn{
+display: flex;
 align-items: center;
 text-align: center;
 
