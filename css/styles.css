@@ -454,6 +454,7 @@ margin-bottom: 12px;
   outline: 2px solid var(--icon-modal);
   outline-offset: -2px;
 
+  cursor: pointer;
   transition: background-color var(--animation), outline var(--animation);
 }
 
